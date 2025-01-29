@@ -2,21 +2,28 @@
 
 I am Maximilian, a student at [42 Heilbronn](https://www.42heilbronn.de/en/)!
 
-Just me working towards a future i want to live in :)
+Just me figuring things out :)
 
 <div align="center">
+
 ### 42 School Projects
 
 <a href="https://github.com/maxrmax/libft">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/maxrmax/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/maxrmax/ft_printf">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfn.png)</a>
 <a href="https://github.com/maxrmax/Born2beroot">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/maxrmax/ft_printf">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/maxrmax/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/maxrmax/push_swap">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/maxrmax/pipex">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/pipexe.png)</a>
+<!-- <a href="https://github.com/maxrmax/minitalk">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalke.png)</a> -->
+<!-- <a href="https://github.com/maxrmax/so_long">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longe.png)</a> -->
+<!-- <a href="https://github.com/maxrmax/FdF">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/FdFe.png)</a> -->
+<!-- <a href="https://github.com/maxrmax/fract-ol">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/fract-ole.png)</a> -->
 
-<!-- &#9656; [More information about the 42 school projects](https://github.com/maxrmax/42_cursus_projects) -->
+&#9656; [More information about the 42 school projects](https://github.com/maxrmax/42_core_curriculum)
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![maxrmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrmax&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
