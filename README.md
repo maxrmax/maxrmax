@@ -6,16 +6,27 @@ Just me figuring things out :)
 
 <div align="center">
 
-### 42 School Projects
+## 42 School Projects
+
+### Finished Projects
 
 <a href="https://github.com/maxrmax/libft">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/maxrmax/Born2beroot">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/born2berootm.png)</a>
 <a href="https://github.com/maxrmax/ft_printf">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/maxrmax/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/maxrmax/push_swap">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swape.png)</a>
+
+### Work in Progress
+<a href="https://github.com/maxrmax/push_swap">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swapn.png)</a>
+<a href="https://github.com/maxrmax/minitalk">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalke.png)</a>
+<a href="https://github.com/maxrmax/so_long">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longe.png)</a>
+
+### Mandatory Extra Projects for My Bachelor's Degree
+
+### Voluntary Extra Projects
+
 <a href="https://github.com/maxrmax/pipex">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/pipexe.png)</a>
-<!-- <a href="https://github.com/maxrmax/minitalk">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalke.png)</a> -->
-<!-- <a href="https://github.com/maxrmax/so_long">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/so_longe.png)</a> -->
+
+<!-- ### Multiple Choice Projects that i didn't choose -->
 <!-- <a href="https://github.com/maxrmax/FdF">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/FdFe.png)</a> -->
 <!-- <a href="https://github.com/maxrmax/fract-ol">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/fract-ole.png)</a> -->
 
