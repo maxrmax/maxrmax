@@ -40,9 +40,6 @@ Just me figuring things out :)
 
 &#9656; [More information about the 42 school projects](https://github.com/maxrmax/42_core_curriculum)
 
-### GitHub Stats
-
-![Stats](./profile/stats.svg)
 
 ![](https://komarev.com/ghpvc/?username=maxrmax&color=blue)
 </div>
