@@ -20,8 +20,8 @@ Just me figuring things out :)
 <a href="https://github.com/maxrmax/philosophers">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/maxrmax/minishell">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minishelle.png)</a>
 ![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/netpracticee.png)</a>
-<a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirtn.png)</a>
-<a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppn.png)</a>
+<a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirte.png)</a>
+<a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png)</a>
 
 
 
@@ -42,7 +42,7 @@ Just me figuring things out :)
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=maxrmax&color=blue)
