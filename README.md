@@ -42,8 +42,7 @@ Just me figuring things out :)
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats](./profile/stats.svg)
 
 ![](https://komarev.com/ghpvc/?username=maxrmax&color=blue)
 </div>
