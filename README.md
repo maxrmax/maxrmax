@@ -2,7 +2,10 @@
 
 I am Maximilian, a student at [42 Heilbronn](https://www.42heilbronn.de/en/)!
 
-Just me figuring things out :)
+School repository acccount.
+
+My real interest in cyber security, privacy and anonymity is managed properly.
+Good luck :)
 
 <div align="center">
 
@@ -16,13 +19,14 @@ Just me figuring things out :)
 <a href="https://github.com/maxrmax/get_next_line">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/maxrmax/push_swap">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/push_swapm.png)</a>
 <a href="https://github.com/maxrmax/minitalk">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/maxrmax/pipex">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/maxrmax/fract-ol">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/fract-olm.png)</a>
 <a href="https://github.com/maxrmax/philosophers">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/maxrmax/minishell">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minishelle.png)</a>
 ![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirte.png)</a>
 <a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png)</a>
-
+<a href="https://github.com/maxrmax/ft_irc">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircm.png)</a>
 
 
 ### Work in Progress
@@ -30,12 +34,9 @@ Just me figuring things out :)
 <a href="https://github.com/maxrmax/Inception">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png)</a>
 
 ### Future Projects
-<a href="https://github.com/maxrmax/ft_irc">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircn.png)</a>
+
 <a href="https://github.com/maxrmax/Transcendence">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_transcendencen.png)</a>
 
-### Extra Projects
-
-<a href="https://github.com/maxrmax/pipex">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/pipexe.png)</a>
 
 
 &#9656; [More information about the 42 school projects](https://github.com/maxrmax/42_core_curriculum)
