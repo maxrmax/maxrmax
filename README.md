@@ -20,25 +20,22 @@ Just me figuring things out :)
 <a href="https://github.com/maxrmax/philosophers">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/maxrmax/minishell">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minishelle.png)</a>
 ![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirtn.png)</a>
+<a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppn.png)</a>
 
 
 
 ### Work in Progress
-<a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirtn.png)</a>
 <a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppn.png)</a>
+<a href="https://github.com/maxrmax/Inception">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png)</a>
 
 ### Future Projects
-<a href="https://github.com/maxrmax/Inception">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png)</a>
 <a href="https://github.com/maxrmax/ft_irc">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircn.png)</a>
 <a href="https://github.com/maxrmax/Transcendence">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_transcendencen.png)</a>
 
 ### Extra Projects
 
 <a href="https://github.com/maxrmax/pipex">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/pipexe.png)</a>
-
-### Plans for the future
-extra projects for the bachelors degree
-redoing already absolved programs with bonuses
 
 
 &#9656; [More information about the 42 school projects](https://github.com/maxrmax/42_core_curriculum)
