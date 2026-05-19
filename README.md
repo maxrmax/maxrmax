@@ -1,11 +1,12 @@
 ## I greet you, visitor
 
-I am Maximilian, a student at [42 Heilbronn](https://www.42heilbronn.de/en/)!
+I am Max, a student at [42 Heilbronn](https://www.42heilbronn.de/en/)!
 
-School repository acccount.
+This is my study repository acccount.
 
-My real interest in cyber security, privacy and anonymity is managed properly.
-Good luck :)
+I am very passionate about security, privacy, anonymity and ownership.
+
+The Internet should be free.
 
 <div align="center">
 
@@ -27,11 +28,11 @@ Good luck :)
 <a href="https://github.com/maxrmax/miniRT">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/minirte.png)</a>
 <a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppm.png)</a>
 <a href="https://github.com/maxrmax/ft_irc">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/ft_ircm.png)</a>
+<a href="https://github.com/maxrmax/Inception">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptione.png)</a>
 
 
 ### Work in Progress
 <a href="https://github.com/maxrmax/cpp">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/cppn.png)</a>
-<a href="https://github.com/maxrmax/Inception">![42 Badge](https://github.com/maxrmax/maxrmax/blob/main/42_badges/inceptionn.png)</a>
 
 ### Future Projects
 
