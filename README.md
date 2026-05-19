@@ -47,4 +47,6 @@ redoing already absolved programs with bonuses
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrmax&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![](https://komarev.com/ghpvc/?username=maxrmax&color=blue&style=pixel)
 </div>
